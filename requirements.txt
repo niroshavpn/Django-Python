@@ -1,4 +1,4 @@
-Django==1.11.10
+Django==1.11.23
 django-filter==1.1.0
 mysql==0.0.1
 MySQL-python==1.2.5
